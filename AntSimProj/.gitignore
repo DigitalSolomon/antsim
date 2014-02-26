@@ -1,0 +1,7 @@
+*.csproj
+WebBuild*
+*.sln
+*.userprefs
+Temp*
+iOSBuild*
+*.mov
